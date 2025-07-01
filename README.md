@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smexykatarina&label=Profile%20views&color=0e75b6&style=flat" alt="smexykatarina" /> </p>
 
-- 🌱 I’m currently learning **Angular, TailwindCSS,**
-
-- 👨‍💻 All of my projects are available at [github.com/smexykatarina](github.com/smexykatarina)
-
-- 💬 Ask me about **Front-end tech and modding**
-
-- ⚡ Fun fact **I game and program at the same time, multi-tasking the multi-task.**
+I'm a full stack developer that was trained by my self because I believe self-learning to be the best form of learning for me. I gained interest in programming from a very young age, taking it upon my self to ask the question of "How is a website made?", that started a huge rabbit hole of videos that I watched that lead me to this moment. During my younger years I used to code stuff in Minecraft called Plugins and made small websites for fun, not really for making large scale apps. During covid, I picked up modding for Keep Talking and Nobody Explodes, it reignited the passion in me to continue to develop the skills. I started and finished a Full Stack Developer course on Codecademy and took a year to go through and complete it. I then spent my time making small projects to expand my knowledge in different directions each time, messing with animations, styles and loads of other nitpicky things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
